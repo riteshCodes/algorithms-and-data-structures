@@ -40,7 +40,7 @@ import lab.CompletelyFairScheduler;
  * 
  */
 
-@DisplayName("Exercise 4 - Red Black Trees")
+@DisplayName("Exercise - Red Black Trees")
 class PublicTests {
 	
 	protected int correct = 0;
