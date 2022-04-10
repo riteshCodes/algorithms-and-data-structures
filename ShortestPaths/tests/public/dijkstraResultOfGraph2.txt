@@ -1,0 +1,121 @@
+10
+0
+0: Pnull D0
+1: P0 D4
+2: P0 D4
+3: P7 D8
+4: P2 D5
+5: P2 D5
+6: P3 D11
+7: P5 D6
+8: Pnull Dnull
+9: Pnull Dnull
+
+1
+0: P1 D2
+1: Pnull D0
+2: P0 D6
+3: P7 D10
+4: P2 D7
+5: P2 D7
+6: P3 D13
+7: P5 D8
+8: Pnull Dnull
+9: Pnull Dnull
+
+2
+0: P1 D5
+1: P2 D3
+2: Pnull D0
+3: P7 D4
+4: P2 D1
+5: P2 D1
+6: P3 D7
+7: P5 D2
+8: Pnull Dnull
+9: Pnull Dnull
+
+3
+0: P1 D5
+1: P2 D3
+2: P3 D0
+3: Pnull D0
+4: P2 D1
+5: P2 D1
+6: P3 D3
+7: P5 D2
+8: Pnull Dnull
+9: Pnull Dnull
+
+4
+0: P1 D12
+1: P2 D10
+2: P3 D7
+3: P7 D7
+4: Pnull D0
+5: P4 D4
+6: P3 D10
+7: P5 D5
+8: Pnull Dnull
+9: Pnull Dnull
+
+5
+0: P1 D8
+1: P2 D6
+2: P3 D3
+3: P7 D3
+4: P2 D4
+5: Pnull D0
+6: P3 D6
+7: P5 D1
+8: Pnull Dnull
+9: Pnull Dnull
+
+6
+0: P1 D7
+1: P2 D5
+2: P6 D2
+3: P7 D6
+4: P2 D3
+5: P2 D3
+6: Pnull D0
+7: P5 D4
+8: Pnull Dnull
+9: Pnull Dnull
+
+7
+0: P1 D7
+1: P2 D5
+2: P3 D2
+3: P7 D2
+4: P2 D3
+5: P2 D3
+6: P3 D5
+7: Pnull D0
+8: Pnull Dnull
+9: Pnull Dnull
+
+8
+0: P1 D10
+1: P2 D8
+2: P3 D5
+3: P7 D5
+4: P2 D6
+5: P2 D6
+6: P3 D8
+7: P8 D3
+8: Pnull D0
+9: Pnull Dnull
+
+9
+0: Pnull Dnull
+1: Pnull Dnull
+2: Pnull Dnull
+3: Pnull Dnull
+4: Pnull Dnull
+5: Pnull Dnull
+6: Pnull Dnull
+7: Pnull Dnull
+8: Pnull Dnull
+9: Pnull D0
+
