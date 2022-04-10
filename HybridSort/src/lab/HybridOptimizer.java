@@ -34,7 +34,7 @@ public class HybridOptimizer {
             if (sum < possibles) possibles = sum;
         }
 
-        return k;
+        return k-1;
     }
 
 }
